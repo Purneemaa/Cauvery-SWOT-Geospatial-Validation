@@ -77,7 +77,4 @@ Temporal matching with in-situ observations may be affected by differences in ob
 
 The dataset should therefore be interpreted with consideration of station-specific conditions and the limitations of satellite-based hydrological measurements.
 
-9. Data Availability
-
-The processed research dataset is deposited in Mendeley Data.
 
